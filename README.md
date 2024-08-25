@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#I am a innovative and adaptable software developer with a strong foundation in problem solving. Passionate about coding and exploring development tools. Experienced in designing and implementing scalable, efficient, and maintainable software solutions. Passionate about collaborating with agile and cross-functional teams to deliver cutting-edge products that solve real-world problems.
+# I am a innovative and adaptable software developer with a strong foundation in problem solving. Passionate about coding and exploring development tools. Experienced in designing and implementing scalable, efficient, and maintainable software solutions. Passionate about collaborating with agile and cross-functional teams to deliver cutting-edge products that solve real-world problems.
 <!--
 **arnavhax/arnavhax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
